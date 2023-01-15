@@ -1,7 +1,7 @@
 import pygame as pg, sys
 
 
-class Game:
+class Home:
     def __init__(self):
         self.bg = "#171717"
         self.settings_bg = "#c4c4c4"
@@ -214,5 +214,5 @@ class Button():
             self.text = self.font.render(self.text_input, True, self.base_color)
 
 
-test = Game()
+test = Home()
 test.main_menu()
