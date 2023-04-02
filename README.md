@@ -1,4 +1,4 @@
-## wish.list  
+# wish.list  
 An online shopping tool helping customers save on purchases.
 
 _SEE PROTOYPE_: https://www.figma.com/proto/3t8AIhwqbMzjQnF0oxH6nR/Untitled?node-id=1%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2&show-proto-sidebar=1
